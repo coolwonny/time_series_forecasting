@@ -8,5 +8,5 @@ Doing international business requires dealing with foreign currency transactions
 In this assignment, we will test the many time-series tools that we have learned in order to predict future movements in the value of the Japanese yen versus the U.S. dollar.
 We're going to use the following tools mainly:
 
--Time Series Forecasting
+-Time Series Forecasting    
 -Linear Regression Modeling
